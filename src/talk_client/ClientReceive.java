@@ -2,7 +2,6 @@ package talk_client;
 
 import close.Close;
 
-import java.awt.TexturePaint;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
